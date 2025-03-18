@@ -37,6 +37,16 @@ This app is intended for general use and does not knowingly collect personal inf
 Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the updated policy will be effective immediately upon posting. We encourage you to review this Privacy Policy periodically for any changes.
 
+Ads and Third-Party Services
+
+Our app uses Google AdMob to display advertisements. AdMob may collect certain information such as device type, IP address, and browsing activity to serve personalized ads. These ads help us keep the app free to use.
+
+AdMob and other third-party ad networks may collect information through cookies and similar technologies to serve targeted ads.
+
+For more information about how AdMob collects and uses your data, please read Google’s Privacy Policy at https://policies.google.com/privacy.
+
+You can control your ad preferences through Google’s Ad Settings: https://adssettings.google.com.
+
 Contact Us
 If you have any questions or suggestions about this Privacy Policy, please contact us at:
 Email: iliass199612@gmail.com
